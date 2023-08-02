@@ -1,1 +1,1 @@
-My second Readme file
+This file contains information about this project
